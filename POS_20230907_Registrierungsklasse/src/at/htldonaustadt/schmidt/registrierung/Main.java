@@ -1,6 +1,6 @@
 package at.htldonaustadt.schmidt.registrierung;
 
-import at.htldonaustadt.schmidt.registrierung.signup.Signup;
+import at.htldonaustadt.schmidt.registrierung.backend.Signup;
 
 public class Main {
     public static void main(String[] args) {

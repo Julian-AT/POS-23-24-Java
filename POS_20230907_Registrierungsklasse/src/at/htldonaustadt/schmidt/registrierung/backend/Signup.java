@@ -1,4 +1,4 @@
-package at.htldonaustadt.schmidt.registrierung.signup;
+package at.htldonaustadt.schmidt.registrierung.backend;
 
 import java.security.InvalidParameterException;
 import java.util.InputMismatchException;
